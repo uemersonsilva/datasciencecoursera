@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository used to materials and classes of Course Data Science of Coursera
+Repository used to materials and classes of Coursera Data Science of Course
